@@ -45,5 +45,14 @@ This currency detection currently works only for Indian Currency notes of denomi
 	- Average and Maximum Similarity score (SSIM score) of each feature
 	- Status of each feature (Pass/ Fail)
 
+## Purpose
+This project has been developed as a mini project under the course IT204 - Signals and Systems.
+
+## Contributors
+- Aprameya Dash (191IT209)
+- Suyash Chintawar (191IT109)
+- Maheshwari Mihir Premjibhai (191IT129)
+- Kunal Singh Lohiya (191IT128)
+
 ## That's all
 That's all about this project, folks!
